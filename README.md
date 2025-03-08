@@ -74,4 +74,4 @@ Além da minha paixão por análise de dados, tenho experiência comprovada na m
 
 
 ---
-✍ *Criado por [Seu Nome]*
+✍ *Criado por David Felicio*
