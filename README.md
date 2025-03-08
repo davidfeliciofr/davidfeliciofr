@@ -31,38 +31,22 @@ Além da minha paixão por análise de dados, tenho experiência comprovada na m
 🔹 DAX Avançado (SQLBI Best Practices)  
 🔹 Ciência de Dados (Em Desenvolvimento)  
 
-## 💻 Projetos Recentes
+# 📚 Lista de Artigos no LinkedIn  
 
-<div align="center">
-  
-  ### 📊 **Dashboard de Gestão de Viagens**
-  <a href="#">
-    <img src="https://via.placeholder.com/300x150" alt="Dashboard de Gestão de Viagens" width="300">
-  </a>
-  <p>🔹 Criado para identificar colaboradores viajando para o mesmo local no mesmo período, otimizando custos.</p>
-</div>
+Aqui está a lista de artigos que publiquei no LinkedIn sobre análise de dados e Power BI.  
 
----
+## 🚀 Últimos Artigos  
 
-<div align="center">
-  
-  ### 🔥 **Análise de Performance no Power Query**
-  <a href="#">
-    <img src="" alt="Análise de Performance no Power Query" width="300">
-  </a>
-  <p>🔹 Otimização de consultas para melhorar a performance do carregamento de dados no Power BI.</p>
-</div>
+1. **[Aprimorando Visuais de Calendário no Power BI com SVG](https://www.linkedin.com/pulse/aprimorando-visuais-de-calend%C3%A1rio-power-bi-com-svg-david-felicio)**  
+   🔹 A visualização de dados eficaz é um pilar da análise moderna, e o detalhamento diário das vendas e dos custos é crucial para muitas organizações. Foi essa necessidade que me motivou a explorar novas formas de representar vendas e custos ao longo da semana no Power BI. 
 
----
+2. **[FALANDO DE DAX: Acumulando Valores com DAX no Contexto de Datas](https://www.linkedin.com/pulse/falando-de-dax-acumulando-valores-com-contexto-datas-david-felicio-kegpe)**  
+   🔹No Power BI, calcular valores acumulados ao longo do tempo é uma prática essencial para análises temporais. Existem diferentes abordagens para isso, e duas comuns são o uso da função CALCULATE com FILTER + ALL e o uso de funções como TOTALYTD (além de suas variantes TOTALMTD e TOTALQTD).   
 
-<div align="center">
-  
-  ### 📈 **Estruturação de Governança no Power BI**
-  <a href="#">
-    <img src="https://via.placeholder.com/300x150" alt="Estruturação de Governança no Power BI" width="300">
-  </a>
-  <p>🔹 Organização de Workspaces, Capacidade Premium e criação de Dataflows padronizados para governança de dados.</p>
-</div>
+
+## 📌 Fique por Dentro  
+🔗 [Meu Perfil no LinkedIn](https://www.linkedin.com/in/davidfeliciofr/) para acompanhar novos conteúdos.  
+
 
 ## 📚 Conteúdo e Aulas
 
