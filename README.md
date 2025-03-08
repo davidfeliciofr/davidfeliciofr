@@ -1,4 +1,4 @@
-## 🚀 David Felicio
+## <img src="https://miro.medium.com/v2/resize:fit:369/1*LkbOtaZvYKHVwDV8E0MmDA.png" height="50" href="https://learn.microsoft.com/en-us/users/davidfeliciofr/credentials/ae8cc73826d7d335?ref=https%3A%2F%2Fwww.linkedin.com%2F" > David Felicio </a>(Certificado PL300)
 
 Analista especializado em Power BI com forte ênfase em análise de dados e um domínio distinto de storytelling com dados. Profissional avançado em Excel, com experiência profunda em VBA e complementos de BI, permitindo análises mais complexas e insights orientados a resultados.
 
@@ -22,10 +22,8 @@ Além da minha paixão por análise de dados, tenho experiência comprovada na m
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white" style="border-radius: 10px;">
   <img src="https://img.shields.io/badge/DAX-005FAD?style=for-the-badge&logo=power%20bi&logoColor=white" style="border-radius: 10px;">
 </p>
-
-
-
-
+ 
+  
 
 📌 **Principais Competências:**  
 🔹 Power BI (Governança, Dataflows, Modelos Semânticos)  
@@ -50,7 +48,7 @@ Além da minha paixão por análise de dados, tenho experiência comprovada na m
   
   ### 🔥 **Análise de Performance no Power Query**
   <a href="#">
-    <img src="https://images.klipfolio.com/website/public/bf9c6fbb-06bf-4f1d-88a7-d02b70902bd1/data-dashboard.png" alt="Análise de Performance no Power Query" width="300">
+    <img src="" alt="Análise de Performance no Power Query" width="300">
   </a>
   <p>🔹 Otimização de consultas para melhorar a performance do carregamento de dados no Power BI.</p>
 </div>
