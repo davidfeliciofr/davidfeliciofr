@@ -1,14 +1,17 @@
-## 🚀 Sobre Mim
+## 🚀 David Felicio
 
-Olá! Eu sou **David Felicio**, um especialista em **Power BI, análise de dados e governança de dados**. Tenho experiência em criar **Workspaces, Dataflows e Modelos Semânticos**, além de otimizar consultas DAX e Power Query para alto desempenho. Atualmente, trabalho como analista de dados estruturando todo o ambiente de **Power BI** na empresa.
+Analista especializado em Power BI com forte ênfase em análise de dados e um domínio distinto de storytelling com dados. Profissional avançado em Excel, com experiência profunda em VBA e complementos de BI, permitindo análises mais complexas e insights orientados a resultados.
+
+Além da minha paixão por análise de dados, tenho experiência comprovada na metodologia WCM, tendo alcançado 41 pontos em apenas 24 meses de trabalho. Desenvolvi e implementei ferramentas metodológicas, incluindo 5G, 5W + 1H, 4M, 5 Why, 5S, EWO e Machine Ledger. Minha expertise não se limita apenas à análise; possuo conhecimento profundo nos pilares de gestão e técnica, com experiência particular nos pilares de Manutenção Profissional, Desenvolvimento de Pessoas e Melhoria Focada.
 
 ## 📫 Contato
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/) 
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario/)  
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario/)  
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/seu-canal/)  
-✉️ **E-mail:** seuemail@dominio.com  
+<p align="start">
+  <a href="https://www.linkedin.com/in/davidfeliciofr/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+  <a href="https://github.com/davidfeliciofr/"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a>
+  <a href="https://www.instagram.com/davidfeliciofr/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+  <a href="https://www.youtube.com//@davidfeliciofr/"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a>
+  
+</p>
 
 📌 **Principais Competências:**  
 🔹 Power BI (Governança, Dataflows, Modelos Semânticos)  
