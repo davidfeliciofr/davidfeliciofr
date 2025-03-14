@@ -38,10 +38,15 @@ Aqui está a lista de artigos que publiquei no LinkedIn sobre análise de dados 
 ## 🚀 Últimos Artigos  
 
 1. **[Aprimorando Visuais de Calendário no Power BI com SVG](https://www.linkedin.com/pulse/aprimorando-visuais-de-calend%C3%A1rio-power-bi-com-svg-david-felicio)**  
-   🔹 A visualização de dados eficaz é um pilar da análise moderna, e o detalhamento diário das vendas e dos custos é crucial para muitas organizações. Foi essa necessidade que me motivou a explorar novas formas de representar vendas e custos ao longo da semana no Power BI. 
+   🔹 A visualização de dados eficaz é um pilar da análise moderna, e o detalhamento diário das vendas e dos custos é crucial para muitas organizações. Foi essa necessidade que me motivou a explorar novas formas de representar vendas e custos ao longo da semana no Power BI.
+   
 
 2. **[FALANDO DE DAX: Acumulando Valores com DAX no Contexto de Datas](https://www.linkedin.com/pulse/falando-de-dax-acumulando-valores-com-contexto-datas-david-felicio-kegpe)**  
-   🔹No Power BI, calcular valores acumulados ao longo do tempo é uma prática essencial para análises temporais. Existem diferentes abordagens para isso, e duas comuns são o uso da função CALCULATE com FILTER + ALL e o uso de funções como TOTALYTD (além de suas variantes TOTALMTD e TOTALQTD).   
+   🔹No Power BI, calcular valores acumulados ao longo do tempo é uma prática essencial para análises temporais. Existem diferentes abordagens para isso, e duas comuns são o uso da função CALCULATE com FILTER + ALL e o uso de funções como TOTALYTD (além de suas variantes TOTALMTD e TOTALQTD).
+
+3. **[RLS | Como Funciona o Compartilhamento de Relatórios no Power BI com Diferentes Licenças](https://www.linkedin.com/pulse/001pbs-rls-como-funciona-o-compartilhamento-de-power-bi-david-felicio-qnswf)**  
+   🔹Para esclarecer essas dúvidas de forma direta e acessível, escrevi este artigo detalhando como o RLS se comporta em diferentes tipos de licença e quais são as melhores estratégias para compartilhamento dentro da organização.
+
 
 
 ## 📌 Fique por Dentro  
