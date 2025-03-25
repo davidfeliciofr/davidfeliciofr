@@ -1,6 +1,6 @@
 ## <img src="https://miro.medium.com/v2/resize:fit:369/1*LkbOtaZvYKHVwDV8E0MmDA.png" height="50" href="https://learn.microsoft.com/en-us/users/davidfeliciofr/credentials/ae8cc73826d7d335?ref=https%3A%2F%2Fwww.linkedin.com%2F" > David Felicio </a>(Certificado PL300)
 
-Analista especializado em Power BI com forte ênfase em análise de dados e um domínio distinto de storytelling com dados. Profissional avançado em Excel, com experiência profunda em VBA e complementos de BI, permitindo análises mais complexas e insights orientados a resultados.
+Analista dados especializado em Power BI e um domínio distinto de storytelling com dados. Trabalho com Excel a mais de 10 anos, com experiência profunda em VBA e suplementos como PowerPivot, PowerQuery e o saudoso PowerView, permitindo análises mais complexas e insights orientados a resultados.
 
 Além da minha paixão por análise de dados, tenho experiência comprovada na metodologia WCM, tendo alcançado 41 pontos em apenas 24 meses de trabalho. Desenvolvi e implementei ferramentas metodológicas, incluindo 5G, 5W + 1H, 4M, 5 Why, 5S, EWO e Machine Ledger. Minha expertise não se limita apenas à análise; possuo conhecimento profundo nos pilares de gestão e técnica, com experiência particular nos pilares de Manutenção Profissional, Desenvolvimento de Pessoas e Melhoria Focada.
 <p align="start">
